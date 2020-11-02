@@ -8,8 +8,8 @@
        "coordinates":  [  -97.041540,	32.977010 ]
     },
     "properties": {
-    "ID Code":1,
-    "Distance (Miles)":"\t9.0 miles"
+    "IDCode":1,
+    "Distance":"\t9.0 miles"
     }
   },
   {
@@ -19,8 +19,8 @@
        "coordinates":  [  -97.276100,	32.916400 ]
     },
     "properties": {
-    "ID Code":2,
-    "Distance (Miles)":"\t26.2 miles"
+    "IDCode":2,
+    "Distance":"\t26.2 miles"
     }
   },
   {
@@ -30,8 +30,8 @@
        "coordinates":  [  -96.959150,	32.598720 ]
     },
     "properties": {
-    "ID Code":3,
-    "Distance (Miles)":"\t25.3 miles"
+    "IDCode":3,
+    "Distance":"\t25.3 miles"
     }
   },
   {
@@ -41,8 +41,8 @@
        "coordinates":  [  -97.679140,	32.805700 ]
     },
     "properties": {
-    "ID Code":4,
-    "Distance (Miles)":"\t47.2 miles"
+    "IDCode":4,
+    "Distance":"\t47.2 miles"
     }
   },
   {
@@ -52,8 +52,8 @@
        "coordinates":  [  -96.532930,	32.924270 ]
     },
     "properties": {
-    "ID Code":5,
-    "Distance (Miles)":"\t36.5 miles"
+    "IDCode":5,
+    "Distance":"\t36.5 miles"
     }
   },
   {
@@ -63,8 +63,8 @@
        "coordinates":  [  -97.176720,	32.744220 ]
     },
     "properties": {
-    "ID Code":6,
-    "Distance (Miles)":"\t20.7 miles"
+    "IDCode":6,
+    "Distance":"\t20.7 miles"
     }
   },
   {
@@ -74,8 +74,8 @@
        "coordinates":  [  -97.024140,	33.113690 ]
     },
     "properties": {
-    "ID Code":7,
-    "Distance (Miles)":"\t20 miles"
+    "IDCode":7,
+    "Distance":"\t20 miles"
     }
   },
   {
@@ -85,8 +85,8 @@
        "coordinates":  [  -96.762220,	32.815970 ]
     },
     "properties": {
-    "ID Code":8,
-    "Distance (Miles)":"\t18.1 miles"
+    "IDCode":8,
+    "Distance":"\t18.1 miles"
     }
   },
   {
@@ -96,8 +96,8 @@
        "coordinates":  [  -97.083610,	32.796620 ]
     },
     "properties": {
-    "ID Code":9,
-    "Distance (Miles)":"\t13.3 miles"
+    "IDCode":9,
+    "Distance":"\t13.3 miles"
     }
   },
   {
@@ -107,8 +107,8 @@
        "coordinates":  [  -97.054930,	32.638260 ]
     },
     "properties": {
-    "ID Code":10,
-    "Distance (Miles)":"\t21.8 miles"
+    "IDCode":10,
+    "Distance":"\t21.8 miles"
     }
   },
   {
@@ -118,8 +118,8 @@
        "coordinates":  [  -97.044720,	32.579090 ]
     },
     "properties": {
-    "ID Code":12,
-    "Distance (Miles)":"\t25.8 miles"
+    "IDCode":12,
+    "Distance":"\t25.8 miles"
     }
   },
   {
@@ -129,8 +129,8 @@
        "coordinates":  [  -96.951710,	32.750620 ]
     },
     "properties": {
-    "ID Code":13,
-    "Distance (Miles)":"\t15.3 miles"
+    "IDCode":13,
+    "Distance":"\t15.3 miles"
     }
   },
   {
@@ -140,8 +140,8 @@
        "coordinates":  [  -97.117750,	32.606300 ]
     },
     "properties": {
-    "ID Code":14,
-    "Distance (Miles)":"\t26.1 miles"
+    "IDCode":14,
+    "Distance":"\t26.1 miles"
     }
   },
   {
@@ -151,8 +151,8 @@
        "coordinates":  [  -97.069270,	32.583130 ]
     },
     "properties": {
-    "ID Code":15,
-    "Distance (Miles)":"\t25.7 miles"
+    "IDCode":15,
+    "Distance":"\t25.7 miles"
     }
   },
   {
@@ -162,8 +162,8 @@
        "coordinates":  [  -96.837110,	32.669460 ]
     },
     "properties": {
-    "ID Code":16,
-    "Distance (Miles)":"\t22.5 miles"
+    "IDCode":16,
+    "Distance":"\t22.5 miles"
     }
   },
   {
@@ -173,8 +173,8 @@
        "coordinates":  [  -97.214000,	32.867590 ]
     },
     "properties": {
-    "ID Code":17,
-    "Distance (Miles)":"\t19.2 miles"
+    "IDCode":17,
+    "Distance":"\t19.2 miles"
     }
   },
   {
@@ -184,8 +184,8 @@
        "coordinates":  [  -97.159200,	32.792070 ]
     },
     "properties": {
-    "ID Code":18,
-    "Distance (Miles)":"\t34.3 miles"
+    "IDCode":18,
+    "Distance":"\t34.3 miles"
     }
   },
   {
@@ -195,8 +195,8 @@
        "coordinates":  [  -96.814080,	32.962820 ]
     },
     "properties": {
-    "ID Code":19,
-    "Distance (Miles)":"\t13 miles"
+    "IDCode":19,
+    "Distance":"\t13 miles"
     }
   },
   {
@@ -206,8 +206,8 @@
        "coordinates":  [  -97.486810,	32.778140 ]
     },
     "properties": {
-    "ID Code":20,
-    "Distance (Miles)":"\t33.5 miles"
+    "IDCode":20,
+    "Distance":"\t33.5 miles"
     }
   },
   {
@@ -217,8 +217,8 @@
        "coordinates":  [  -97.304060,	32.945300 ]
     },
     "properties": {
-    "ID Code":21,
-    "Distance (Miles)":"\t25.4 miles"
+    "IDCode":21,
+    "Distance":"\t25.4 miles"
     }
   },
   {
@@ -228,8 +228,8 @@
        "coordinates":  [  -96.778570,	32.781140 ]
     },
     "properties": {
-    "ID Code":22,
-    "Distance (Miles)":"\t17.7 miles"
+    "IDCode":22,
+    "Distance":"\t17.7 miles"
     }
   },
   {
@@ -239,8 +239,8 @@
        "coordinates":  [  -97.015230,	32.761870 ]
     },
     "properties": {
-    "ID Code":23,
-    "Distance (Miles)":"\t10.7 miles"
+    "IDCode":23,
+    "Distance":"\t10.7 miles"
     }
   },
   {
@@ -250,8 +250,8 @@
        "coordinates":  [  -96.772530,	32.878690 ]
     },
     "properties": {
-    "ID Code":24,
-    "Distance (Miles)":"\t16.8 miles"
+    "IDCode":24,
+    "Distance":"\t16.8 miles"
     }
   },
   {
@@ -261,8 +261,8 @@
        "coordinates":  [  -97.073450,	32.691030 ]
     },
     "properties": {
-    "ID Code":25,
-    "Distance (Miles)":"\t17.6 miles"
+    "IDCode":25,
+    "Distance":"\t17.6 miles"
     }
   },
   {
@@ -272,8 +272,8 @@
        "coordinates":  [  -97.083240,	33.045770 ]
     },
     "properties": {
-    "ID Code":26,
-    "Distance (Miles)":"\t15.5 miles"
+    "IDCode":26,
+    "Distance":"\t15.5 miles"
     }
   },
   {
@@ -283,8 +283,8 @@
        "coordinates":  [  -97.300480,	32.943850 ]
     },
     "properties": {
-    "ID Code":27,
-    "Distance (Miles)":"\t25.8 miles"
+    "IDCode":27,
+    "Distance":"\t25.8 miles"
     }
   },
   {
@@ -294,8 +294,8 @@
        "coordinates":  [  -97.099740,	32.734420 ]
     },
     "properties": {
-    "ID Code":28,
-    "Distance (Miles)":"\t15.8 miles"
+    "IDCode":28,
+    "Distance":"\t15.8 miles"
     }
   },
   {
@@ -305,8 +305,8 @@
        "coordinates":  [  -97.317590,	32.853610 ]
     },
     "properties": {
-    "ID Code":29,
-    "Distance (Miles)":"\t24.8 miles"
+    "IDCode":29,
+    "Distance":"\t24.8 miles"
     }
   },
   {
@@ -316,8 +316,8 @@
        "coordinates":  [  -97.389210,	32.628290 ]
     },
     "properties": {
-    "ID Code":30,
-    "Distance (Miles)":"\t40.4 miles"
+    "IDCode":30,
+    "Distance":"\t40.4 miles"
     }
   },
   {
@@ -327,8 +327,8 @@
        "coordinates":  [  -97.095190,	32.752850 ]
     },
     "properties": {
-    "ID Code":31,
-    "Distance (Miles)":"\t14.6 miles"
+    "IDCode":31,
+    "Distance":"\t14.6 miles"
     }
   },
   {
@@ -338,8 +338,8 @@
        "coordinates":  [  -97.357190,	32.873680 ]
     },
     "properties": {
-    "ID Code":32,
-    "Distance (Miles)":"\t27.2 miles"
+    "IDCode":32,
+    "Distance":"\t27.2 miles"
     }
   },
   {
@@ -349,8 +349,8 @@
        "coordinates":  [  -97.100790,	32.645180 ]
     },
     "properties": {
-    "ID Code":33,
-    "Distance (Miles)":"\t23.6 miles"
+    "IDCode":33,
+    "Distance":"\t23.6 miles"
     }
   },
   {
@@ -360,8 +360,8 @@
        "coordinates":  [  -97.190640,	32.756360 ]
     },
     "properties": {
-    "ID Code":34,
-    "Distance (Miles)":"\t20 miles"
+    "IDCode":34,
+    "Distance":"\t20 miles"
     }
   },
   {
@@ -371,8 +371,8 @@
        "coordinates":  [  -97.092570,	32.936800 ]
     },
     "properties": {
-    "ID Code":35,
-    "Distance (Miles)":"\t10.1 miles"
+    "IDCode":35,
+    "Distance":"\t10.1 miles"
     }
   },
   {
@@ -382,8 +382,8 @@
        "coordinates":  [  -97.040130,	32.609650 ]
     },
     "properties": {
-    "ID Code":36,
-    "Distance (Miles)":"\t24.8 miles"
+    "IDCode":36,
+    "Distance":"\t24.8 miles"
     }
   },
   {
@@ -393,8 +393,8 @@
        "coordinates":  [  -97.5266415,	32.8768968 ]
     },
     "properties": {
-    "ID Code":37,
-    "Distance (Miles)":"\t39.4 miles"
+    "IDCode":37,
+    "Distance":"\t39.4 miles"
     }
   },
   {
@@ -404,8 +404,8 @@
        "coordinates":  [  -97.0565865,	32.6441402 ]
     },
     "properties": {
-    "ID Code":38,
-    "Distance (Miles)":"\t21.8 miles"
+    "IDCode":38,
+    "Distance":"\t21.8 miles"
     }
   },
   {
@@ -415,8 +415,8 @@
        "coordinates":  [  -96.904526,	32.592554 ]
     },
     "properties": {
-    "ID Code":39,
-    "Distance (Miles)":"\t27.6 miles"
+    "IDCode":39,
+    "Distance":"\t27.6 miles"
     }
   },
   {
@@ -426,8 +426,8 @@
        "coordinates":  [  -96.7547061732852,	32.8481665390166 ]
     },
     "properties": {
-    "ID Code":40,
-    "Distance (Miles)":"\t19.8 miles"
+    "IDCode":40,
+    "Distance":"\t19.8 miles"
     }
   },
   {
@@ -437,8 +437,8 @@
        "coordinates":  [  -97.07753,	32.585648 ]
     },
     "properties": {
-    "ID Code":41,
-    "Distance (Miles)":"\t25.2 miles"
+    "IDCode":41,
+    "Distance":"\t25.2 miles"
     }
   },
   {
@@ -448,8 +448,8 @@
        "coordinates":  [  -97.07728,	32.685814 ]
     },
     "properties": {
-    "ID Code":42,
-    "Distance (Miles)":"\t18.7 miles"
+    "IDCode":42,
+    "Distance":"\t18.7 miles"
     }
   },
   {
@@ -459,8 +459,8 @@
        "coordinates":  [  -97.1834925178165,	32.6408029038783 ]
     },
     "properties": {
-    "ID Code":43,
-    "Distance (Miles)":"\t31 miles"
+    "IDCode":43,
+    "Distance":"\t31 miles"
     }
   },
   {
@@ -470,8 +470,8 @@
        "coordinates":  [  -97.33337,	32.972817 ]
     },
     "properties": {
-    "ID Code":44,
-    "Distance (Miles)":"\t28.3 miles"
+    "IDCode":44,
+    "Distance":"\t28.3 miles"
     }
   },
   {
@@ -481,8 +481,8 @@
        "coordinates":  [  -97.39475,	32.978035 ]
     },
     "properties": {
-    "ID Code":45,
-    "Distance (Miles)":"\t34.4 miles"
+    "IDCode":45,
+    "Distance":"\t34.4 miles"
     }
   },
   {
@@ -492,8 +492,8 @@
        "coordinates":  [  -96.80383,	32.813572 ]
     },
     "properties": {
-    "ID Code":46,
-    "Distance (Miles)":"\t13.7 miles"
+    "IDCode":46,
+    "Distance":"\t13.7 miles"
     }
   },
   {
@@ -503,8 +503,8 @@
        "coordinates":  [  -97.23367,	32.964115 ]
     },
     "properties": {
-    "ID Code":47,
-    "Distance (Miles)":"\t22.1 miles"
+    "IDCode":47,
+    "Distance":"\t22.1 miles"
     }
   },
   {
@@ -514,8 +514,8 @@
        "coordinates":  [  -96.79546,	32.813824 ]
     },
     "properties": {
-    "ID Code":48,
-    "Distance (Miles)":"\t16.5 miles"
+    "IDCode":48,
+    "Distance":"\t16.5 miles"
     }
   },
   {
@@ -525,8 +525,8 @@
        "coordinates":  [  -96.75987,	32.847523 ]
     },
     "properties": {
-    "ID Code":49,
-    "Distance (Miles)":"\t20.2 miles"
+    "IDCode":49,
+    "Distance":"\t20.2 miles"
     }
   },
   {
@@ -536,8 +536,8 @@
        "coordinates":  [  -96.83121,	32.90434 ]
     },
     "properties": {
-    "ID Code":50,
-    "Distance (Miles)":"\t11.4 miles"
+    "IDCode":50,
+    "Distance":"\t11.4 miles"
     }
   },
   {
@@ -547,8 +547,8 @@
        "coordinates":  [  -96.86704,	32.948364 ]
     },
     "properties": {
-    "ID Code":51,
-    "Distance (Miles)":"\t9.9 miles"
+    "IDCode":51,
+    "Distance":"\t9.9 miles"
     }
   },
   {
@@ -558,8 +558,8 @@
        "coordinates":  [  -97.35849,	32.753666 ]
     },
     "properties": {
-    "ID Code":52,
-    "Distance (Miles)":"\t27.7 miles"
+    "IDCode":52,
+    "Distance":"\t27.7 miles"
     }
   },
   {
@@ -569,8 +569,8 @@
        "coordinates":  [  -97.25339,	32.866512 ]
     },
     "properties": {
-    "ID Code":53,
-    "Distance (Miles)":"\t22.2 miles"
+    "IDCode":53,
+    "Distance":"\t22.2 miles"
     }
   },
   {
@@ -580,8 +580,8 @@
        "coordinates":  [  -97.10453,	32.96589 ]
     },
     "properties": {
-    "ID Code":54,
-    "Distance (Miles)":"\t12.8 miles"
+    "IDCode":54,
+    "Distance":"\t12.8 miles"
     }
   },
   {
@@ -591,8 +591,8 @@
        "coordinates":  [  -97.02412,	32.735966 ]
     },
     "properties": {
-    "ID Code":55,
-    "Distance (Miles)":"\t12.5 miles"
+    "IDCode":55,
+    "Distance":"\t12.5 miles"
     }
   },
   {
@@ -602,8 +602,8 @@
        "coordinates":  [  -96.84323,	32.94833 ]
     },
     "properties": {
-    "ID Code":56,
-    "Distance (Miles)":"\t11.6 miles"
+    "IDCode":56,
+    "Distance":"\t11.6 miles"
     }
   },
   {
@@ -613,8 +613,8 @@
        "coordinates":  [  -96.86603,	32.748234 ]
     },
     "properties": {
-    "ID Code":57,
-    "Distance (Miles)":"\t15.8 miles"
+    "IDCode":57,
+    "Distance":"\t15.8 miles"
     }
   },
   {
@@ -624,8 +624,8 @@
        "coordinates":  [  -96.97224,	32.889595 ]
     },
     "properties": {
-    "ID Code":58,
-    "Distance (Miles)":"\t0 miles"
+    "IDCode":58,
+    "Distance":"\t0 miles"
     }
   }
 ]
