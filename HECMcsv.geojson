@@ -1,0 +1,155 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -119.4179, 36.7783 ]
+    },
+    "properties": {
+    "State":"CA: HECM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -81.5158, 27.6648 ]
+    },
+    "properties": {
+    "State":"FL: HECM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -74.0060, 40.7128 ]
+    },
+    "properties": {
+    "State":"NY: HECM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -74.4057, 40.0583 ]
+    },
+    "properties": {
+    "State":"NJ: HECM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -71.3824, 42.4072 ]
+    },
+    "properties": {
+    "State":"MA: HECM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -76.6413, 39.0458 ]
+    },
+    "properties": {
+    "State":"MD: HECM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -77.1945, 41.2033 ]
+    },
+    "properties": {
+    "State":"PA: HECM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -78.6569, 37.4316 ]
+    },
+    "properties": {
+    "State":"VA: HECM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -99.9018, 31.9686 ]
+    },
+    "properties": {
+    "State":"TX: HECM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -120.7401, 47.7511 ]
+    },
+    "properties": {
+    "State":"WA: HECM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -73.0877, 41.6032 ]
+    },
+    "properties": {
+    "State":"CT: HECM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -89.3985, 40.6331 ]
+    },
+    "properties": {
+    "State":"IL: HECM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -111.0937, 34.0489 ]
+    },
+    "properties": {
+    "State":"AZ: HECM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -120.5542, 43.8041 ]
+    },
+    "properties": {
+    "State":"OR: HECM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -111.0937, 39.3210 ]
+    },
+    "properties": {
+    "State":"UT: HECM"
+    }
+  }
+]
+}
