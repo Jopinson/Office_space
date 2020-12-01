@@ -1,0 +1,65 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -81.4158, 27.6648 ]
+    },
+    "properties": {
+    "State":"FL: HECM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -74.0081, 40.7128 ]
+    },
+    "properties": {
+    "State":"NY: HECM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -75.6413, 39.0458 ]
+    },
+    "properties": {
+    "State":"MD: HECM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -79.6569, 37.4316 ]
+    },
+    "properties": {
+    "State":"VA: HECM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -98.9018, 31.9686 ]
+    },
+    "properties": {
+    "State":"TX: HECM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -88.3985, 40.6331 ]
+    },
+    "properties": {
+    "State":"IL: HECM"
+    }
+  }
+]
+}
