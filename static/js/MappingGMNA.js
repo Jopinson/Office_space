@@ -40,7 +40,7 @@ let overlays = {
 L.control.layers(baseMaps, overlays).addTo(map);
 
 // Retrieve the earthquake GeoJSON data.
-d3.json("https://raw.githubusercontent.com/Jopinson/Office_space/main/GNMAHECM/GNMAcsv.geojson").then(function(data) {
+d3.json("https://raw.githubusercontent.com/Jopinson/Office_space/main/GNMAcsv.geojson").then(function(data) {
 
   // This function returns the style data for each of the earthquakes we plot on
   // the map. We pass the magnitude of the earthquake into two separate functions
@@ -75,7 +75,7 @@ d3.json("https://raw.githubusercontent.com/Jopinson/Office_space/main/GNMAHECM/G
   allGNMA.addTo(map);
 
   // Retrieve the earthquake GeoJSON data.
-d3.json("https://raw.githubusercontent.com/Jopinson/Office_space/main/GNMAHECM/HECMcsv.geojson").then(function(data) {
+d3.json("https://raw.githubusercontent.com/Jopinson/Office_space/main/HECMcsv.geojson").then(function(data) {
 
   // This function returns the style data for each of the earthquakes we plot on
   // the map. We pass the magnitude of the earthquake into two separate functions
@@ -111,7 +111,7 @@ d3.json("https://raw.githubusercontent.com/Jopinson/Office_space/main/GNMAHECM/H
  });
 
   // Retrieve the earthquake GeoJSON data.
-  d3.json("https://raw.githubusercontent.com/Jopinson/Office_space/main/GNMAHECM/Bothgeo.geojson").then(function(data) {
+  d3.json("https://raw.githubusercontent.com/Jopinson/Office_space/main/Bothgeo.geojson").then(function(data) {
 
     // This function returns the style data for each of the earthquakes we plot on
     // the map. We pass the magnitude of the earthquake into two separate functions
