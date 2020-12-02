@@ -1,0 +1,155 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -99.9118, 31.9686 ]
+    },
+    "properties": {
+    "State":"TX: GNMA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -81.6158, 27.6648 ]
+    },
+    "properties": {
+    "State":"FL: GNMA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -82.9001, 32.1656 ]
+    },
+    "properties": {
+    "State":"GA: GNMA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -79.0193, 35.7596 ]
+    },
+    "properties": {
+    "State":"NC: GNMA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -74.1060, 40.7128 ]
+    },
+    "properties": {
+    "State":"NY: GNMA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -118.2437, 34.0522 ]
+    },
+    "properties": {
+    "State":"LA: GNMA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -89.4985, 40.6331 ]
+    },
+    "properties": {
+    "State":"IL: GNMA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -77.2945, 41.2033 ]
+    },
+    "properties": {
+    "State":"PA: GNMA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -82.9071, 40.4173 ]
+    },
+    "properties": {
+    "State":"OH: GNMA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -86.5804, 35.5175 ]
+    },
+    "properties": {
+    "State":"TN: GNMA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -86.1349, 40.2672 ]
+    },
+    "properties": {
+    "State":"IN: GNMA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -78.6569, 37.4316 ]
+    },
+    "properties": {
+    "State":"VA: GNMA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -86.9023, 32.3182 ]
+    },
+    "properties": {
+    "State":"AL: GNMA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -76.4413, 39.0458 ]
+    },
+    "properties": {
+    "State":"MD: GNMA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -81.1637, 33.8361 ]
+    },
+    "properties": {
+    "State":"SC: GNMA"
+    }
+  }
+]
+}
