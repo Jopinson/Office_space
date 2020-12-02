@@ -110,42 +110,6 @@ d3.json("https://raw.githubusercontent.com/Jopinson/Office_space/main/HECMcsv.ge
     allHECM.addTo(map);
  });
 
-  // Retrieve the earthquake GeoJSON data.
-  d3.json("https://raw.githubusercontent.com/Jopinson/Office_space/main/Bothgeo.geojson").then(function(data) {
-
-    // This function returns the style data for each of the earthquakes we plot on
-    // the map. We pass the magnitude of the earthquake into two separate functions
-    // to calculate the color and radius.
-    function styleInfo(feature) {
-      return {
-        opacity: 1,
-        fillOpacity: 1,
-        color: "#66ff66",
-        stroke: true,
-        weight: 0.5
-      };
-    }
-  
-    // Creating a GeoJSON layer with the retrieved data.
-    L.geoJson(data, {
-      // We turn each feature into a circleMarker on the map.
-      pointToLayer: function(feature, latlng) {
-          console.log(data);
-          return L.circleMarker(latlng);
-        },
-      // We set the style for each circleMarker using our styleInfo function.
-    style: styleInfo,
-     // We create a popup for each circleMarker to display the magnitude and location of the earthquake
-     //  after the marker has been created and styled.
-     onEachFeature: function(feature, layer) {
-      layer.bindPopup(feature.properties.state);
-        }
-      }).addTo(BothStates);
-  
-  // Then we add the earthquake layer to our map.
-      BothStates.addTo(map);
-   });
-
    // Here we create a legend control object.
 let legend = L.control({
   position: "bottomright"
