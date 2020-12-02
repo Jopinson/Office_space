@@ -5,7 +5,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [  -99.9018, 31.9686 ]
+       "coordinates":  [  -97.3308, 32.7555 ]
     },
     "properties": {
     "State":"TX: GNMA"
@@ -15,7 +15,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [  -81.5158, 27.6648 ]
+       "coordinates":  [  -82.4572, 27.9506 ]
     },
     "properties": {
     "State":"FL: GNMA"
@@ -45,7 +45,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [  -74.0060, 40.7128 ]
+       "coordinates":  [  -75.5235, 42.5312 ]
     },
     "properties": {
     "State":"NY: GNMA"
@@ -65,7 +65,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [  -89.3985, 40.6331 ]
+       "coordinates":  [  -88.9937, 40.4842 ]
     },
     "properties": {
     "State":"IL: GNMA"
@@ -75,7 +75,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [  -77.1945, 41.2033 ]
+       "coordinates":  [  -76.4549, 41.0037 ]
     },
     "properties": {
     "State":"PA: GNMA"
@@ -135,7 +135,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [  -76.6413, 39.0458 ]
+       "coordinates":  [  -76.6122, 39.2904 ]
     },
     "properties": {
     "State":"MD: GNMA"
